@@ -18,7 +18,7 @@ How should I use these files relative to the released MOC files?
 
 - These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
 
-- It will be recommended that for every delivery of 20347, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- It will be recommended that for every delivery of 20347, trainers check GitHub for any changes that may have been made to support the latest Office 365 services, and get the latest files for their delivery.
 
 
 
